@@ -10,7 +10,7 @@ title: "Quantum Spookiness Is a Human Misunderstanding"
 **Jeroen van Bemmel** Exergy ∞ LLC  
 **December 2025**
 
----
+![Quantum Spookiness](assets/quantum_spookiness.png)
 
 **Entangled particles aren't separate objects. They're projections of a single quantum state—like shadows cast by one cube. This dissolves the spookiness: there's no faster-than-light communication because there's nothing to communicate about. The correlation was built into the structure from the start.**
 
