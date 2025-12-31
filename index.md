@@ -87,7 +87,7 @@ The shadow analogy points to something profound: **What if reality is fundamenta
 
 In everyday life, we think of objects as having independent existence. A rock is a rock, whether or not anything else exists. But quantum mechanics hints at something different. What if things exist in relationship to other things? What if the properties we measure aren't properties objects "have" independently, but properties that emerge in the context of measurement, in relation to other systems?
 
-According to this perspective, entangled particles don't have independent states. They exist as a relationship—a pattern of correlations. **In this interpretation, the relationship is more fundamental than the individual relata.**
+According to this perspective, entangled particles don't have independent states. They exist as a relationship—a pattern of correlations. **In this interpretation, the relationship is more fundamental than the individual related objects.**
 
 This might not be just a quirk of quantum mechanics. This perspective might be telling us something deep about reality itself. What if what we call "objects" are really patterns or relationships that appear stable and independent under certain conditions but reveal their relational nature when probed more deeply?
 
