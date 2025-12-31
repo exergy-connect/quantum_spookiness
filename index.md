@@ -3,7 +3,7 @@ layout: default
 title: "Quantum Spookiness Is a Human Misunderstanding"
 ---
 
-![Exergy Logo](assets/exergy_logo.png)
+![Exergy Logo](assets/exergy_connect_logo.jpeg)
 
 # Quantum Spookiness Is a Human Misunderstanding
 
