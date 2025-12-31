@@ -38,7 +38,7 @@ Different appearances. Different locations. But are they separate objects?
 
 No. They're all projections of the same cube onto different surfaces.
 
-![The Shadow Principle](assets/shadow_illustration.png)
+![The Shadow Principle](assets/shadow_principle.png)
 
 Now imagine the cube is invisible. You can only see the shadows. You might think you're looking at three separate objects. But when the cube rotates, all the shadows change in coordinated ways. This coordination doesn't happen because the shadows communicate. It happens because they're projections of the same underlying structure.
 
