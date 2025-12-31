@@ -59,7 +59,7 @@ If the quantum state is unified, why do we only see "parts" of it? Why does it a
 
 **To see anything, we must first establish a baseline.** A white letter on white background is invisible. To read the letter, there must be contrast. In quantum mechanics, the full quantum state is like that white background. It contains all possibilities simultaneously, which to an observer looks like nothing, or pure potential.
 
-To extract information, we must introduce a measurement axis. This act creates the baseline. By choosing to measure spin along the Z-axis, we create the contrast necessary for a result to appear. The result—up or down—is the contrast that emerges against the baseline we provided.
+Measurement is not reading out a value but imposing a question. Different questions produce different answers—but quantum theory still only tells us the odds. To extract information, we must introduce a measurement axis. This act creates the baseline. By choosing to measure spin along the Z-axis, we create the contrast necessary for a result to appear. The result—up or down—is the contrast that emerges against the baseline we provided.
 
 We cannot see the full quantum state for the same reason a two-dimensional being cannot see a three-dimensional sphere. Our measurements require baselines to function. We don't see the cube—the unified state. We only see the shadows—the particles—because only shadows provide the contrast our classical world requires.
 
