@@ -13,7 +13,7 @@ Exergy ∞ LLC
 
 ![Quantum Spookiness](assets/quantum_spookiness.png)
 
-**The theory describes entangled particles as projections of a single quantum state—like shadows cast by one cube. This way of thinking dissolves the spookiness: there's no faster-than-light communication because there's nothing to communicate about. The correlation was built into the structure from the start.**
+**This perspective describes entangled particles as projections of a single quantum state—like shadows cast by one cube. This way of thinking dissolves the spookiness: there's no faster-than-light communication because there's nothing to communicate about. The correlation was built into the structure from the start.**
 
 Quantum mechanics has a reputation problem. Particles seem to communicate instantly across vast distances. Einstein called it "spooky action at a distance." But what if the particles were never separate to begin with?
 
@@ -47,7 +47,7 @@ Now imagine the cube is invisible. You can only see the shadows. You might think
 
 The mathematical description supports this directly. When two particles are entangled, they're described by a single quantum state—a mathematical object that can't be separated into independent parts. This isn't mathematical convenience. It's a fundamental feature of how quantum mechanics describes reality. The mathematics tells us these particles aren't independently describable. They form an inseparable whole.
 
-Nothing new is being added to the theory—only the assumption that entangled particles are independent objects is being removed.
+Nothing new is being added to quantum mechanics—only the assumption that entangled particles are independent objects is being removed.
 
 This way of thinking dissolves the mystery. There's no faster-than-light signaling because there's nothing to signal. The correlation is a property of the unified state, not something traveling between particles.
 
@@ -59,7 +59,7 @@ If the quantum state is unified, why do we only see "parts" of it? Why does it a
 
 **To see anything, we must first establish a baseline.** A white letter on white background is invisible. To read the letter, there must be contrast. In quantum mechanics, the full quantum state is like that white background. It contains all possibilities simultaneously, which to an observer looks like nothing, or pure potential.
 
-Measurement is not reading out a value but imposing a question. Different questions produce different answers—but quantum theory still only tells us the odds. To extract information, we must introduce a measurement axis. This act creates the baseline. By choosing to measure spin along the Z-axis, we create the contrast necessary for a result to appear. The result—up or down—is the contrast that emerges against the baseline we provided.
+Measurement is not reading out a value but imposing a question. Different questions produce different answers—but quantum mechanics still only tells us the odds. To extract information, we must introduce a measurement axis. This act creates the baseline. By choosing to measure spin along the Z-axis, we create the contrast necessary for a result to appear. The result—up or down—is the contrast that emerges against the baseline we provided.
 
 We cannot see the full quantum state for the same reason a two-dimensional being cannot see a three-dimensional sphere. Our measurements require baselines to function. We don't see the cube—the unified state. We only see the shadows—the particles—because only shadows provide the contrast our classical world requires.
 
@@ -75,7 +75,7 @@ Einstein worried: if changing something in New York instantly affects something 
 
 Distance doesn't matter. Whether particles are one meter or one light-year apart, they're still projections of the same quantum state. The correlation is a property of that shared state, not something traveling through space. This is why quantum entanglement has been demonstrated across hundreds of kilometers with zero degradation.
 
-Bell's theorem rules out theories where each particle carries independent information. Most interpretations violate this by allowing influence between particles, which creates the faster-than-light problem. This way of thinking violates the assumption instead: if we interpret the theory as describing particles that don't carry independent information because they aren't independent particles to begin with, then there's one quantum state. Measurements reveal different aspects of it.
+Bell's theorem rules out theories where each particle carries independent information. Most interpretations violate this by allowing influence between particles, which creates the faster-than-light problem. This way of thinking violates the assumption instead: if we interpret quantum mechanics as describing particles that don't carry independent information because they aren't independent particles to begin with, then there's one quantum state. Measurements reveal different aspects of it.
 
 Einstein's intuition about locality—that things should only be influenced by their immediate surroundings—was correct. This perspective respects relativistic locality in the sense that no causal influence propagates faster than light: particles don't influence each other at a distance. According to this interpretation, they're just not separate objects to begin with.
 
@@ -87,13 +87,13 @@ The shadow analogy points to something profound: **What if reality is fundamenta
 
 In everyday life, we think of objects as having independent existence. A rock is a rock, whether or not anything else exists. But quantum mechanics hints at something different. What if things exist in relationship to other things? What if the properties we measure aren't properties objects "have" independently, but properties that emerge in the context of measurement, in relation to other systems?
 
-According to the theory, entangled particles don't have independent states. They exist as a relationship—a pattern of correlations. **In this interpretation, the relationship is more fundamental than the individual relata.**
+According to this perspective, entangled particles don't have independent states. They exist as a relationship—a pattern of correlations. **In this interpretation, the relationship is more fundamental than the individual relata.**
 
-This might not be just a quirk of quantum mechanics. The theory might be telling us something deep about reality itself. What if what we call "objects" are really patterns or relationships that appear stable and independent under certain conditions but reveal their relational nature when probed more deeply?
+This might not be just a quirk of quantum mechanics. This perspective might be telling us something deep about reality itself. What if what we call "objects" are really patterns or relationships that appear stable and independent under certain conditions but reveal their relational nature when probed more deeply?
 
-The spookiness disappears when we interpret the theory this way: we're not seeing separate objects coordinating mysteriously. We're seeing different aspects of a unified structure. In this view, the structure itself is what's real. The apparent separation is how we observe it.
+The spookiness disappears when we adopt this perspective: we're not seeing separate objects coordinating mysteriously. We're seeing different aspects of a unified structure. In this view, the structure itself is what's real. The apparent separation is how we observe it.
 
-This reframing has implications beyond quantum mechanics. If we take the theory to suggest reality is fundamentally relational, our everyday experience of separate, independent objects becomes an approximation—useful for navigating the world, but not the deepest truth about how things are.
+This reframing has implications beyond quantum mechanics. If we take this perspective to suggest reality is fundamentally relational, our everyday experience of separate, independent objects becomes an approximation—useful for navigating the world, but not the deepest truth about how things are.
 
 ---
 
@@ -119,11 +119,11 @@ For quantum technology, understanding what entanglement really is helps design b
 
 ## The Invisible Structure
 
-The theory suggests that everyday intuitions—solid, separate objects with definite properties existing in space—are approximations. Useful approximations for everyday life, but approximations nonetheless.
+This perspective suggests that everyday intuitions—solid, separate objects with definite properties existing in space—are approximations. Useful approximations for everyday life, but approximations nonetheless.
 
 According to this interpretation, reality is more subtle. More connected. More like a unified dance than separate dancers.
 
-The theory describes a universe where particles separated by billions of miles can be aspects of a single quantum state. Where the whole can be more real than the parts. Where relationships precede the things being related.
+This perspective describes a universe where particles separated by billions of miles can be aspects of a single quantum state. Where the whole can be more real than the parts. Where relationships precede the things being related.
 
 Perhaps everything we see as separate are different projections of a more fundamental unity. Perhaps the apparent diversity of the world is like different shadows of a single, invisible cube.
 
