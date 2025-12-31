@@ -135,6 +135,11 @@ That's not spooky. That's beautiful.
 
 Thank you for reading.
 
+## Further reading/listening
+
+* ["Flatland" (1884)](https://www.youtube.com/watch?v=FoDGsJW2Pus) by Edwin A. Abbott
+* [Frame Closure and Quantum Measurement: A Geometric Derivation](frame_closure.pdf)
+
 ---
 
 ### License
