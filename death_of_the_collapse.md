@@ -88,4 +88,8 @@ We don’t see all of reality because **observation requires a choice**.
 * Frame closure isn’t a flaw—it’s the structural cost of measurement.
 * Schützhold’s experiment teaches not just about gravity, but about **how to design observation with awareness of its limitations**.
 
-The blog performs what it preaches: starting from a concrete story, opening interpretive possibilities, and finally reflecting on the method itself. Readers can engage at any level, but those who follow all three passes experience **frame-awareness in action**.
+This blog performs what it preaches: starting from a concrete story, opening interpretive possibilities, and finally reflecting on the method itself. Readers can engage at any level, but those who follow all three passes experience **frame-awareness in action**.
+
+---
+
+Thank you for reading.
