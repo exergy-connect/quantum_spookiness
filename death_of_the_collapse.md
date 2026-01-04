@@ -5,9 +5,13 @@ title: "The Death of the Collapse: How Measurement Shapes What We See"
 
 # The Death of the "Collapse": How Measurement Shapes What We See
 
+**Jeroen van Bemmel**  
+Exergy ∞ LLC  
+**January 2026**
+
 The holy grail of fundamental physics is the graviton—the hypothetical quantum of gravity. Detecting it would confirm that spacetime itself is quantized, not the smooth fabric Einstein described.
 
-In a 2025 study (PRL 135, 171501), physicist Ralf Schützhold proposed an "Optical Weber Bar" designed to probe gravitational waves at unprecedented precision. But beyond hunting gravitons, his work reveals something deeper: **how measurement itself structures reality**.
+In a 2025 study ([PRL 135, 171501](https://journals.aps.org/prl/pdf/10.1103/xd97-c6d7)), physicist Ralf Schützhold proposed an "Optical Weber Bar" designed to probe gravitational waves at unprecedented precision. But beyond hunting gravitons, his work reveals something deeper: **how measurement itself structures reality**.
 
 ---
 
