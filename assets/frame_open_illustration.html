@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .frame-container {
+      width: 100%;
+      max-width: 800px;
+      margin: 2em auto;
+      padding: 1.5em;
+      background: #f9fafb;
+      border-radius: 8px;
+    }
+    .frame-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: start;
+      margin-bottom: 1em;
+    }
+    .frame-header h2 {
+      margin: 0;
+      font-size: 1.5em;
+      color: #1f2937;
+    }
+    .info-button {
+      padding: 0.5em;
+      border: none;
+      background: transparent;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+    .info-button:hover {
+      background: #e5e7eb;
+    }
+    .info-box {
+      margin-bottom: 1.5em;
+      padding: 1em;
+      background: #dbeafe;
+      border-left: 4px solid #3b82f6;
+      border-radius: 4px;
+      font-size: 0.875em;
+    }
+    .circuit-diagram {
+      position: relative;
+      height: 250px;
+      margin-bottom: 2em;
+      background: #f3f4f6;
+      border-radius: 8px;
+      padding: 2em;
+    }
+    .frame-selector {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 1em;
+      margin-bottom: 1.5em;
+    }
+    .frame-button {
+      padding: 1em;
+      border: 2px solid #e5e7eb;
+      border-radius: 8px;
+      text-align: left;
+      cursor: pointer;
+      background: white;
+      transition: all 0.2s;
+    }
+    .frame-button:hover {
+      border-color: #9ca3af;
+    }
+    .frame-button.active {
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    .frame-title {
+      font-weight: bold;
+      margin-bottom: 0.5em;
+    }
+    .frame-details {
+      font-size: 0.875em;
+      color: #374151;
+      margin-top: 0.5em;
+    }
+    .frame-details div {
+      margin: 0.25em 0;
+    }
+    .frame-comparison {
+      margin-top: 1.5em;
+      padding: 1em;
+      background: #f3f4f6;
+      border-radius: 8px;
+      border: 1px solid #e5e7eb;
+    }
+    .frame-comparison h3 {
+      margin-top: 0;
+      margin-bottom: 0.75em;
+      color: #1f2937;
+    }
+    .frame-comparison p {
+      margin: 0.5em 0;
+      font-size: 0.875em;
+      color: #374151;
+    }
+    .meta-commentary {
+      margin-top: 1.5em;
+      padding: 1em;
+      background: #faf5ff;
+      border-left: 4px solid #8b5cf6;
+      border-radius: 4px;
+    }
+    .meta-commentary h3 {
+      margin-top: 0;
+      margin-bottom: 0.5em;
+      color: #6b21a8;
+    }
+    .meta-commentary p {
+      margin: 0.5em 0;
+      font-size: 0.875em;
+      color: #7c3aed;
+    }
+  </style>
+</head>
+<body>
+  <div class="frame-container">
+    <div class="frame-header">
+      <h2>The Two-Wire Problem</h2>
+      <button class="info-button" onclick="toggleInfo()">ℹ️</button>
+    </div>
+
+    <div id="info-box" class="info-box" style="display: none;">
+      <p style="margin-bottom: 0.5em;">
+        <strong>Frame-Neutral Exploration:</strong> Each interpretation below describes the same experimental structure differently. None is presented as "correct"—each reveals and obscures different aspects.
+      </p>
+      <p style="color: #374151;">
+        Click each frame to see how it maps the circuit elements. Notice what questions each frame makes natural vs. unaskable.
+      </p>
+    </div>
+
+    <div class="circuit-diagram">
+      <svg width="100%" height="100%" viewBox="0 0 400 200" preserveAspectRatio="xMidYMid meet">
+        <!-- Wire 1 -->
+        <line id="wire1" x1="50" y1="100" x2="150" y2="100" stroke="#6b7280" stroke-width="4"/>
+        <circle cx="50" cy="100" r="8" fill="#6b7280"/>
+        <text x="50" y="85" text-anchor="middle" font-size="12" font-weight="bold" fill="#374151">Wire 1</text>
+
+        <!-- Gap -->
+        <line x1="150" y1="100" x2="155" y2="95" stroke="#6b7280" stroke-width="2"/>
+        <line x1="245" y1="95" x2="250" y2="100" stroke="#6b7280" stroke-width="2"/>
+        
+        <!-- Spark (animated) -->
+        <circle id="spark" cx="200" cy="95" r="3" fill="transparent" opacity="0">
+          <animate attributeName="r" values="3;8;3" dur="1s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.6;0.2;0.6" dur="1s" repeatCount="indefinite"/>
+        </circle>
+        <text id="spark-label" x="200" y="75" text-anchor="middle" font-size="12" font-weight="bold" fill="transparent">Snap Moment</text>
+
+        <text id="gap-label" x="200" y="120" text-anchor="middle" font-size="11" font-style="italic" fill="#6b7280">The Gap</text>
+
+        <!-- Wire 2 -->
+        <line id="wire2" x1="250" y1="100" x2="350" y2="100" stroke="#6b7280" stroke-width="4"/>
+        <circle cx="350" cy="100" r="8" fill="#6b7280"/>
+        <text x="350" y="85" text-anchor="middle" font-size="12" font-weight="bold" fill="#374151">Wire 2</text>
+
+        <!-- Bulb -->
+        <circle id="bulb" cx="200" cy="150" r="20" fill="#d1d5db" opacity="0.1"/>
+        <line x1="150" y1="100" x2="200" y2="150" stroke="#6b7280" stroke-width="2"/>
+        <line x1="250" y1="100" x2="200" y2="150" stroke="#6b7280" stroke-width="2"/>
+        <text id="bulb-label" x="200" y="190" text-anchor="middle" font-size="12" fill="#374151">Discovery</text>
+      </svg>
+    </div>
+
+    <div class="frame-selector">
+      <div class="frame-button" onclick="selectFrame('realist')" id="btn-realist">
+        <div class="frame-title" style="color: #3b82f6;">Frame A: Field Realist</div>
+        <div id="details-realist" class="frame-details" style="display: none;">
+          <div><strong>Wire 1:</strong> Gravitational wave (pre-existing field excitation)</div>
+          <div><strong>Wire 2:</strong> Measurement apparatus (reveals existing properties)</div>
+          <div><strong>Spark:</strong> Graviton (detected particle, was always there)</div>
+          <div><strong>Gap:</strong> Technical challenge (need better sensitivity)</div>
+        </div>
+      </div>
+
+      <div class="frame-button" onclick="selectFrame('relational')" id="btn-relational">
+        <div class="frame-title" style="color: #8b5cf6;">Frame B: Relational/Process</div>
+        <div id="details-relational" class="frame-details" style="display: none;">
+          <div><strong>Wire 1:</strong> Signal potential (undefined until measured)</div>
+          <div><strong>Wire 2:</strong> Observer reference frame (co-creates outcome)</div>
+          <div><strong>Spark:</strong> Interaction record (emerges at interface)</div>
+          <div><strong>Gap:</strong> Unacknowledged observer-dependence</div>
+        </div>
+      </div>
+
+      <div class="frame-button" onclick="selectFrame('instrumental')" id="btn-instrumental">
+        <div class="frame-title" style="color: #10b981;">Frame C: Pragmatic/Instrumental</div>
+        <div id="details-instrumental" class="frame-details" style="display: none;">
+          <div><strong>Wire 1:</strong> Input energy (calculational tool)</div>
+          <div><strong>Wire 2:</strong> Detection protocol (operational definition)</div>
+          <div><strong>Spark:</strong> Measurement result (data point, no ontology)</div>
+          <div><strong>Gap:</strong> Optimization problem (improve signal/noise)</div>
+        </div>
+      </div>
+
+      <div class="frame-button" onclick="selectFrame('institutional')" id="btn-institutional">
+        <div class="frame-title" style="color: #f59e0b;">Frame D: Institutional/Sociological</div>
+        <div id="details-institutional" class="frame-details" style="display: none;">
+          <div><strong>Wire 1:</strong> Theoretical promise (funding justification)</div>
+          <div><strong>Wire 2:</strong> Experimental practice (career structure)</div>
+          <div><strong>Spark:</strong> Publication (academic capital)</div>
+          <div><strong>Gap:</strong> Mystery maintenance (sustains research programs)</div>
+        </div>
+      </div>
+    </div>
+
+    <div id="frame-comparison" class="frame-comparison" style="display: none;">
+      <h3>What This Frame Makes Visible</h3>
+      <div id="comparison-content"></div>
+    </div>
+
+    <div class="meta-commentary">
+      <h3>The Frame-Neutral Position</h3>
+      <p>
+        The "Two-Wire Problem" exists in all frames. Each describes the same experimental structure:
+        signal + reference → measurement outcome. The dispute is about <em>what that structure means</em>.
+      </p>
+      <p>
+        Frame A says Wire 2 reveals pre-existing properties. Frame B says Wire 2 co-creates them.
+        Frame C says the question doesn't matter for predictions. Frame D says the question serves
+        institutional functions.
+      </p>
+      <p style="font-weight: 600;">
+        None is presented as "correct." This visualization holds the interpretive space open.
+      </p>
+    </div>
+  </div>
+
+  <script>
+    const frames = {
+      realist: {
+        title: "Frame A: Field Realist",
+        color: "#3b82f6",
+        comparison: `
+          <p><strong>Reveals:</strong> Clear predictions, experimental falsifiability, integration with Standard Model</p>
+          <p><strong>Obscures:</strong> Observer-frame dependence, measurement-outcome co-creation, why basis choice matters</p>
+          <p><strong>Natural questions:</strong> "What is the graviton's mass?" "How many were detected?"</p>
+          <p><strong>Unaskable questions:</strong> "Is the graviton relative to my reference frame?"</p>
+        `
+      },
+      relational: {
+        title: "Frame B: Relational/Process",
+        color: "#8b5cf6",
+        comparison: `
+          <p><strong>Reveals:</strong> Measurement as interface-closure, observer-relativity of outcomes, basis-dependence</p>
+          <p><strong>Obscures:</strong> Cross-observer consistency, conservation laws, why predictions work at all</p>
+          <p><strong>Natural questions:</strong> "How does my frame shape what I see?" "What's lost in closure?"</p>
+          <p><strong>Unaskable questions:</strong> "What was the graviton doing before measurement?"</p>
+        `
+      },
+      instrumental: {
+        title: "Frame C: Pragmatic/Instrumental",
+        color: "#10b981",
+        comparison: `
+          <p><strong>Reveals:</strong> Operational clarity, predictive success without ontology, practical utility</p>
+          <p><strong>Obscures:</strong> Why the formalism works, what's "really happening," deeper unification prospects</p>
+          <p><strong>Natural questions:</strong> "Does this calculation match the data?" "Can we improve precision?"</p>
+          <p><strong>Unaskable questions:</strong> "What is the graviton, fundamentally?"</p>
+        `
+      },
+      institutional: {
+        title: "Frame D: Institutional/Sociological",
+        color: "#f59e0b",
+        comparison: `
+          <p><strong>Reveals:</strong> Social/economic constraints on inquiry, path-dependence, career incentives</p>
+          <p><strong>Obscures:</strong> Genuine intellectual disagreement, progress within paradigms, honest confusion</p>
+          <p><strong>Natural questions:</strong> "Who benefits from this framing?" "What gets funded?"</p>
+          <p><strong>Unaskable questions:</strong> "Is this interpretation physically correct?"</p>
+        `
+      }
+    };
+
+    let activeFrame = null;
+
+    function toggleInfo() {
+      const infoBox = document.getElementById('info-box');
+      infoBox.style.display = infoBox.style.display === 'none' ? 'block' : 'none';
+    }
+
+    function selectFrame(frameKey) {
+      // Toggle if clicking the same frame
+      if (activeFrame === frameKey) {
+        activeFrame = null;
+        updateDisplay();
+        return;
+      }
+
+      activeFrame = frameKey;
+      updateDisplay();
+    }
+
+    function updateDisplay() {
+      // Update all buttons
+      Object.keys(frames).forEach(key => {
+        const btn = document.getElementById(`btn-${key}`);
+        const details = document.getElementById(`details-${key}`);
+        const frame = frames[key];
+        
+        if (key === activeFrame) {
+          btn.classList.add('active');
+          btn.style.borderColor = frame.color;
+          btn.style.backgroundColor = frame.color + '10';
+          details.style.display = 'block';
+        } else {
+          btn.classList.remove('active');
+          btn.style.borderColor = '';
+          btn.style.backgroundColor = '';
+          details.style.display = 'none';
+        }
+      });
+
+      // Update circuit diagram
+      const wire1 = document.getElementById('wire1');
+      const wire2 = document.getElementById('wire2');
+      const spark = document.getElementById('spark');
+      const sparkLabel = document.getElementById('spark-label');
+      const gapLabel = document.getElementById('gap-label');
+      const bulb = document.getElementById('bulb');
+      const bulbLabel = document.getElementById('bulb-label');
+
+      if (activeFrame) {
+        const frame = frames[activeFrame];
+        const color = frame.color;
+        
+        wire1.setAttribute('stroke', color);
+        wire2.setAttribute('stroke', color);
+        spark.setAttribute('fill', color);
+        spark.setAttribute('opacity', '0.6');
+        sparkLabel.setAttribute('fill', color);
+        gapLabel.textContent = 'Contact Point';
+        bulb.setAttribute('fill', color);
+        bulb.setAttribute('opacity', '0.3');
+        bulbLabel.textContent = 'Illuminated';
+      } else {
+        wire1.setAttribute('stroke', '#6b7280');
+        wire2.setAttribute('stroke', '#6b7280');
+        spark.setAttribute('fill', 'transparent');
+        spark.setAttribute('opacity', '0');
+        sparkLabel.setAttribute('fill', 'transparent');
+        gapLabel.textContent = 'The Gap';
+        bulb.setAttribute('fill', '#d1d5db');
+        bulb.setAttribute('opacity', '0.1');
+        bulbLabel.textContent = 'Discovery';
+      }
+
+      // Update comparison section
+      const comparison = document.getElementById('frame-comparison');
+      const content = document.getElementById('comparison-content');
+      
+      if (activeFrame) {
+        content.innerHTML = frames[activeFrame].comparison;
+        comparison.style.display = 'block';
+      } else {
+        comparison.style.display = 'none';
+      }
+    }
+  </script>
+</body>
+</html>
+

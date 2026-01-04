@@ -55,9 +55,11 @@ This is not magic—it's a conceptual tool aligned with **decoherence theory**. 
 * **Relational QM:** Outcomes are relative to the observer.
 * **Objective Collapse:** Physical triggers enforce definiteness.
 
-Frame Closure doesn’t claim exclusivity; it’s a *lens*, showing how measurement precision can be engineered by controlling interface constraints. Schützhold’s experiment implicitly does this, regardless of which interpretation you adopt.
+Frame Closure doesn't claim exclusivity; it's a *lens*, showing how measurement precision can be engineered by controlling interface constraints. Schützhold's experiment implicitly does this, regardless of which interpretation you adopt.
 
 *Cue for the reader:* The story just became about **how you look**, not just **what you see**.
+
+<iframe src="assets/frame_open_illustration.html" width="100%" height="800" frameborder="0" style="border: 1px solid #e5e7eb; border-radius: 8px; margin: 2em 0;"></iframe>
 
 ---
 
