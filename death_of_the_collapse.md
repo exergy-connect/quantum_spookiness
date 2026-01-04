@@ -1,4 +1,9 @@
-# The Death of the “Collapse”: How Measurement Shapes What We See
+---
+layout: default
+title: "The Death of the Collapse: How Measurement Shapes What We See"
+---
+
+# The Death of the "Collapse": How Measurement Shapes What We See
 
 The holy grail of fundamental physics is the graviton—the hypothetical quantum of gravity. Detecting it would confirm that spacetime itself is quantized, not the smooth fabric Einstein described.
 

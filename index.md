@@ -139,6 +139,7 @@ Thank you for reading.
 
 * ["Flatland" (1884)](https://www.youtube.com/watch?v=FoDGsJW2Pus) by Edwin A. Abbott
 * [Frame Closure and Quantum Measurement: A Geometric Derivation](frame_closure.pdf)
+* [The Death of the "Collapse": How Measurement Shapes What We See](death_of_the_collapse.html)
 
 ---
 
