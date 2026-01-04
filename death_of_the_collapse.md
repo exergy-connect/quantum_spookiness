@@ -80,6 +80,102 @@ Schützhold’s Snap Moment matters not because it *proves* gravitons (that’s 
 
 ---
 
+## ▲ Pass 4: Forensic Audit of the Observer — Observing Yourself Observing
+
+*(Frame fully open; the observer is now the subject.)*
+
+So far, we've explored:
+
+1. **The Snap Moment** — physics in narrative clarity.
+
+2. **Frame Closure** — interpretive plurality and the limits of measurement.
+
+3. **Meta-Layer** — applying frame-awareness universally.
+
+Now, it's time to turn the lens **on the reader**. You are the observer of this story. You are the participant in a multi-pass audit. What does that mean?
+
+---
+
+### Step 1: Identify Your Frames
+
+* What assumptions are you bringing into this reading?
+
+  * Do you default to thinking uncertainty is ontological or epistemic?
+
+  * Are you seeking "the correct answer" or exploring possibilities?
+
+* Recognize where your frame is **closing preemptively**—jumping to conclusions or filtering content to fit prior beliefs.
+
+*Example:* If you read "Frame Closure" and think "that's just metaphor," notice that your skepticism is a frame acting on the content. It doesn't invalidate the experiment; it just limits what aspects of it you're currently auditing.
+
+---
+
+### Step 2: Audit Your Interface
+
+* How are you "measuring" the blog itself?
+
+  * Are you skimming, reading linearly, or pausing to reflect?
+
+  * Are you asking, "Does this fit my mental model," or "What does this reveal if I let my frame stay open longer"?
+
+* Can you temporarily **suspend deterministic closure** to experience subtle patterns—like noticing connections between Snap Moment, observer effect, and interface rounding?
+
+*Tip:* Slow down. The blog itself is designed as a **Snap Moment for the mind**. Spending extra time on one paragraph can reveal subtleties that rapid reading would "average out."
+
+---
+
+### Step 3: Recognize Projection Errors
+
+* Every reader carries residual mental "gravitons" of past physics education, ideology, or cognitive bias.
+
+* Ask yourself: Which "ghosts in the machine" are artifacts of **my own interface**?
+
+* Some patterns you notice might not be in the blog at all—they are **echoes of your prior frame**, just as gravitons appear as audit logs in a quantum measurement.
+
+*Exercise:* Write down one concept that seems "obvious" to you. Then ask: *Is this phenomenon in the text, or am I projecting it?*
+
+---
+
+### Step 4: Intellectual Fasting
+
+* Step back from your habitual epistemic diet: stop seeking conclusions, stop trying to "resolve" uncertainty immediately.
+
+* Let your mind **audit without committing**—hold your frame open as long as possible.
+
+* This is the cognitive equivalent of Schützhold's Snap Moment: the instant when the system's subtleties become visible **because you delayed frame closure**.
+
+---
+
+### Step 5: Integrate with the Three Passes
+
+* **Pass 1:** You could stop here and feel informed about physics.
+
+* **Pass 2:** You might pause to consider multiple interpretations.
+
+* **Pass 3:** You might generalize frame-awareness to other domains.
+
+* **Pass 4:** You examine *how you do all of the above*, auditing your own observation interface.
+
+*Key insight:* The graviton, the Snap Moment, the diamonds—they are all **residues of frame interaction**. In this pass, the residue you examine is **your own cognitive interface**.
+
+---
+
+### The Forensic Verdict for the Reader
+
+You aren't just reading a blog—you are participating in a **controlled experiment of awareness**.
+
+* Reality isn't collapsing; **your frame is performing a forensic audit**.
+
+* Every observation you make here is a **trace in your own audit log**.
+
+* The "truth" isn't just out there—it emerges where **your frame meets the content with deliberate care**.
+
+By performing this fourth pass, you've not only learned about quantum measurement, Frame Closure, and Snap Moments—you've **experienced what it means to audit an interface**.
+
+You are now the observer who knows **how to audit the observer**.
+
+---
+
 ## The Real Takeaway
 
 We don’t see all of reality because **observation requires a choice**.
@@ -88,7 +184,7 @@ We don’t see all of reality because **observation requires a choice**.
 * Frame closure isn’t a flaw—it’s the structural cost of measurement.
 * Schützhold’s experiment teaches not just about gravity, but about **how to design observation with awareness of its limitations**.
 
-This blog performs what it preaches: starting from a concrete story, opening interpretive possibilities, and finally reflecting on the method itself. Readers can engage at any level, but those who follow all three passes experience **frame-awareness in action**.
+This blog performs what it preaches: starting from a concrete story, opening interpretive possibilities, reflecting on the method itself, and finally turning the lens on the observer. Readers can engage at any level, but those who follow all four passes experience **frame-awareness in action**.
 
 ---
 
