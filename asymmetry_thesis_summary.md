@@ -20,7 +20,7 @@ title: "Why Asymmetry Is Fundamental: A New Foundation for Physics"
 
 Two arguments make this inevitable, not accidental:
 
-1. **Statistical combinatorics**: Symmetric configurations are vanishingly rare (~10^(-75) for modest systems). Asymmetry dominates configuration space.
+1. **Statistical combinatorics**: Symmetric configurations are vanishingly rare. For a modest system of N=100 elements in 3D space under a 4-element symmetry group, f_sym ≈ 10^(-75)—effectively zero. Asymmetry dominates configuration space.
 2. **Informational complexity**: Asymmetric generators require simpler encodings. Nature selects lower complexity.
 
 **The paradigm shift**: Don't ask "why did symmetry break?" Ask "what mechanism maintains the symmetry we observe?" The default state is asymmetry.
@@ -61,6 +61,8 @@ When we observe symmetry, ask: "What mechanism maintains it?" The answer might b
 
 ### Statistical Dominance
 
+**Assumptions**: Distinguishable elements, discrete lattice discretization, approximate counting for group constraints.
+
 For a system with N elements in D dimensions, discretized into L positions per dimension:
 
 **Ω_total = L^(D·N)**  
@@ -68,6 +70,19 @@ For a system with N elements in D dimensions, discretized into L positions per d
 **f_sym ≈ L^(-D·N·(1 - 1/|G|))**
 
 This decreases exponentially with N and D. For N=100, D=3, |G|=4: f_sym ≈ 10^(-75)—effectively zero.
+
+**Connection to RIC formalism**: The combinatorial fraction directly relates to average structural presence:
+
+**⟨𝓔⟩_config ~ 1 - f_sym**
+
+The vast majority of configurations have high 𝓔, so statistical dominance reinforces the informational argument. As f_sym → 0, nearly all configurations exhibit significant asymmetry.
+
+**Dimensional comparison**: For modest N, f_sym drops dramatically with dimension:
+- D=1: Moderate suppression, asymmetry fragile
+- D=2: Strong suppression, but limited relational context
+- D=3: Extreme suppression (~10^(-75) for N=100), robust asymmetry inevitable
+
+*Visualization*: A plot of f_sym vs. N for D=1,2,3 would show: D=1 and D=2 curves remain non-negligible for small N, while D=3 drops to effectively zero even for modest systems. This visually demonstrates why 3D is minimal for robust asymmetry.
 
 **Implications**: Asymmetry is the default. Symmetry requires explanation. Three dimensions are minimal for robust asymmetry.
 
@@ -94,6 +109,8 @@ The statistical and informational arguments converge on a deeper insight: **asym
 High-𝓔 structures correspond to persistent asymmetries in **dynamical generators**, not just configurations. These structures resist erasure, form stable records, and dominate both configuration space (statistically) and generator space (informationally).
 
 **The reframe**: We've been asking the wrong question. Not "why are some states asymmetric?" but "why are the laws that generate states asymmetric?"
+
+**Critical distinction**: Asymmetry is fundamental at the law (generator) level; symmetry is emergent at the state level. This connects directly to physical examples: Lorentz invariance emerges from statistical averaging, gauge symmetries require global consistency conditions, parity violation reflects fundamental asymmetry in weak force generators.
 
 The answer: Asymmetric laws are **cheaper to encode** and **more probable to arise** from random generation. Symmetry in laws requires special structure—maintained by exact conservation, gauge invariance, or scale-dependent emergence.
 
@@ -123,7 +140,7 @@ Asymmetry is not a deviation from symmetry. **Asymmetry is the ground state, and
 
 This follows from combinatorial inevitability, informational economy, and structural persistence. Every broken symmetry in physics becomes evidence for this thesis. Every exact symmetry becomes a question: "What maintains it?"
 
-**The universe doesn't break symmetry. The universe breaks toward asymmetry.**
+**The universe doesn't break symmetry. The universe breaks toward asymmetry.** *(Statistical and informational inevitability, not dynamical accident)*
 
 ---
 
