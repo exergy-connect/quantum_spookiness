@@ -21,7 +21,7 @@ Quantum mechanics has a reputation problem. Particles seem to communicate instan
 
 ## The Puzzle
 
-A machine creates two entangled photons. One flies to Alice in New York, the other to Bob in Tokyo. They measure polarization. When Alice gets "vertical," Bob always gets "horizontal." Perfect anti-correlation, every time.
+A machine creates a single entangled quantum state. What Alice and Bob receive are not two independent particles, but two aspects of this unified state—like two shadows cast by one object. When Alice measures polarization and gets "vertical," Bob always gets "horizontal." Perfect anti-correlation, every time.
 
 But before measurement, each result appears completely random. The particles are thousands of miles apart. Measurements happen simultaneously—no signal could travel between them at light speed. Yet the results are perfectly coordinated.
 
