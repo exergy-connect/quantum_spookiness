@@ -1,4 +1,14 @@
+---
+layout: default
+title: "A Different Perspective"
+---
+![Exergy Logo](assets/exergy_connect_logo.jpeg)
+
 # A Different Perspective
+
+**Jeroen van Bemmel**  
+Exergy ∞ LLC  
+**February 2026**
 
 **The Recursive Bridge: Beyond the Flat Earth Logic of Modern Physics**
 
