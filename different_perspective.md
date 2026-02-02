@@ -27,7 +27,7 @@ This framework proposes that the universe is a **bridge** between two states:
 
 Mass is not an intrinsic property but an **emergent state of existence.** As Gabriel Tarde noted, "To exist is to differ."
 
-* **The Stability of :** Energy materializes by looping. To avoid self-annihilation via resonance, these loops must follow the **Golden Ratio (Φ)**, the most irrational number. This ensures the signal never perfectly overlaps, allowing a "difference" to persist against the vacuum.
+* **The Stability of Φ:** Energy materializes by looping. To avoid self-annihilation via resonance, these loops must follow the **Golden Ratio (Φ)**, the most irrational number. This ensures the signal never perfectly overlaps, allowing a "difference" to persist against the vacuum.
 * **The Death of the Master Formula:** Because  is irrational and the process is recursive (loops within loops), there is no static formula for mass or gravity—only **approximations**.
 
 ---
