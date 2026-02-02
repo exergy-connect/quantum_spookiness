@@ -56,7 +56,7 @@ Drawing from the **Aharonov-Bohm Effect**, this framework views "spookiness" as 
 
 Entropy is not a slide into disorder (Heat Death), but the **accumulation of complexity (difference).**
 
-* **The Information Paradox:** Information is never lost in a Black Hole; it is **maximally restructured.** * **The Limit of Recursion:** A Black Hole is a region where -loops are so densely packed that the "Smooth Potential" can no longer penetrate. It is the ultimate library of "differences."
+* **The Information Paradox:** Information is never lost in a Black Hole; it is **maximally restructured.** * **The Limit of Recursion:** A Black Hole is a region where Φ-loops are so densely packed that the "Smooth Potential" can no longer penetrate. It is the ultimate library of "differences."
 * **The Event Horizon:** A phase boundary where the restructuring rate required to stay in sync exceeds the speed of light.
 
 ---
