@@ -27,7 +27,7 @@ This framework proposes that the universe is a **bridge** between two states:
 
 Mass is not an intrinsic property but an **emergent state of existence.** As Gabriel Tarde noted, "To exist is to differ."
 
-* **The Stability of :** Energy materializes by looping. To avoid self-annihilation via resonance, these loops must follow the **Golden Ratio ()**, the most irrational number. This ensures the signal never perfectly overlaps, allowing a "difference" to persist against the vacuum.
+* **The Stability of :** Energy materializes by looping. To avoid self-annihilation via resonance, these loops must follow the **Golden Ratio (Φ)**, the most irrational number. This ensures the signal never perfectly overlaps, allowing a "difference" to persist against the vacuum.
 * **The Death of the Master Formula:** Because  is irrational and the process is recursive (loops within loops), there is no static formula for mass or gravity—only **approximations**.
 
 ---
@@ -36,7 +36,7 @@ Mass is not an intrinsic property but an **emergent state of existence.** As Gab
 
 We have misidentified **Redshift** as a loss of energy due to expansion. In a recursive hyperbolic bridge, **energy is preserved but restructured.**
 
-* **The Discrepancy:** The ~9% gap between the CMB () and the Local Ladder () is the **topological parallax** of the bridge.
+* **The Discrepancy:** The ~9% gap between the CMB ($H_0 \approx 67$) and the Local Ladder ($H_0 \approx 73$) is the **topological parallax** of the bridge.
 * **The Mechanism:** The CMB measures the "Smooth" potential before significant recursion. The Local Ladder measures the "Bumpy" reality where energy has navigated the hyperbolic depth of local matter.
 * **Acceleration as Illusion:** We perceive "Dark Energy" because the recursive, hyperbolic nature of the "road" makes the realized path length grow exponentially compared to flat-map predictions.
 
