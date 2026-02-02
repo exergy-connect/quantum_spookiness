@@ -48,7 +48,7 @@ Drawing from the **Aharonov-Bohm Effect**, this framework views "spookiness" as 
 
 * **Quantum Spookiness:** Entangled particles are not "communicating." They are two projections (**shadows**) of a single, higher-dimensional energy structure.
 * **The Singular Path:** While multiple paths are mathematically possible, the energy realizes only **one** path—the one that successfully synchronizes with the local hyperbolic potential.
-* **Gravitational Lensing:** This is the refraction of light through the "higher-density" hyperbolic geometry of -stabilized loops. "Dark Matter" is the name we give to the extra path length we fail to see on our flat maps.
+* **Gravitational Lensing:** This is the refraction of light through the "higher-density" hyperbolic geometry of Φ-stabilized loops. "Dark Matter" is the name we give to the extra path length we fail to see on our flat maps.
 
 ---
 
@@ -63,4 +63,4 @@ Entropy is not a slide into disorder (Heat Death), but the **accumulation of com
 
 ## VI. Conclusion: Physics as Navigation
 
-By abandoning the search for a symmetrical "Theory of Everything," we recognize that the universe is an open, recursive process. The lack of a master formula is not a failure of mathematics; it is the **signature of reality.** The "Tension" in our measurements is the proof that we live in a universe of **Depth**, where the interaction between the smooth potential and the bumpy realization creates the friction we call existence. We are not watching a machine wind down; we are watching a topology wake up.
+By abandoning the search for a symmetrical "Theory of Everything," we recognize that the universe is an open, recursive process. The lack of a master formula is not a failure of mathematics; it is the **signature of reality.** The "Tension" in our measurements is the proof that we live in a universe of **Depth**, where the interaction between the smooth potential and the bumpy realization creates the friction we call existence. We are not watching a machine wind down; we are watching a topology come to life.
