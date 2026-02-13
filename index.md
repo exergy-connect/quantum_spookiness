@@ -138,6 +138,7 @@ Thank you for reading.
 ## Further reading/listening
 
 * ["Flatland" (1884)](https://www.youtube.com/watch?v=FoDGsJW2Pus) by Edwin A. Abbott
+* [Relational Quantum Mechanics](https://arxiv.org/abs/quant-ph/9609002) by Carlo Rovelli (1996) - The foundational paper on the relational interpretation of quantum mechanics
 * [Frame Closure and Quantum Measurement: A Geometric Derivation](frame_closure.pdf)
 * [The Death of the "Collapse": How Measurement Shapes What We See](death_of_the_collapse.html)
 
